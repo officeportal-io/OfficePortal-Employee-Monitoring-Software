@@ -57,7 +57,7 @@ We offer a **7-day free trial** of our elite version — no credit card required
 ## 📞 Book a Demo
 
 Prefer a walkthrough?  
-[Book a personalized demo](https://www.officeportal.io/contact-us/) with our team and see how OfficePortal fits your workflow.
+[Book a personalized demo](https://www.officeportal.io/schedule-a-demo/) with our team and see how OfficePortal fits your workflow.
 
 ---
 
