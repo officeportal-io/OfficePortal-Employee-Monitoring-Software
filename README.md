@@ -1,6 +1,6 @@
 # OfficePortal Employee Monitoring Software
 
-![OfficePortal Logo](https://www.officeportal.io/wp-content/uploads/2021/08/logo-main.png)
+![OfficePortal Logo](https://www.officeportal.io/wp-content/uploads/2022/09/OP-Logo-White.png)
 
 **OfficePortal Employee Monitoring Software** is a comprehensive, intuitive, and secure solution designed to help organizations monitor, optimize, and enhance employee productivity—especially in hybrid and remote work environments.
 
